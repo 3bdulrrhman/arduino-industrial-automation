@@ -37,7 +37,7 @@ The system monitors temperature, humidity, and gas concentration and performs re
 5.	Actuators respond according to threshold conditions
 6.	LCD displays sensor data cyclically
 7.	External interrupt safely turns the system OFF at any time
-8.	
+   
 ##Software & Tools
 -	Arduino IDE
 -	Proteus (for simulation and validation)
@@ -64,6 +64,7 @@ This project is intended for educational purposes.
 https://www.alldatasheet.com/html-pdf/11470/ONSEMI/2N3904/180/1/2N3904.html
 [6]  IRLZ44N Logic Level N-Channel MOSFET, Datasheet.
 IIRLZ44N datasheet(1/2 Pages) ISC | N-Channel MOSFET Transistor  
+
 
 
 
